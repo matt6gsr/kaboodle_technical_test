@@ -8,4 +8,4 @@ I have written tests using Vitest and react-testing-library.
 
 I would further test the components and I would implement a `Search` on the homepage if this was a live project.
 
-Please use `test:ui` to run test suite
+Please use `npm run test:ui` to run test suite
